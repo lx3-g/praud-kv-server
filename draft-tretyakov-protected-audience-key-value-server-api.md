@@ -3,7 +3,7 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-tretyakov-protocol-latest
+docname: draft-tretyakov-protected-audience-key-value-server-api-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
