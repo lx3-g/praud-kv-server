@@ -1,5 +1,10 @@
 # Protected Audience Key Value Server Api
 
+* [Editor's Copy](https://lx3-g.github.io/praud-kv-server/draft-tretyakov-protected-audience-key-value-server-api.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-tretyakov-protected-audience-key-value-server-api)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-tretyakov-protected-audience-key-value-server-api)
+* [Compare Editor's Copy to Individual Draft](https://lx3-g.github.io/praud-kv-server/draft-tretyakov-protected-audience-key-value-server-api.diff)
+
 ## Contributing
 
 See the

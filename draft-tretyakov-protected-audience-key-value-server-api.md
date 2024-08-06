@@ -20,7 +20,7 @@ venue:
 #  mail: WG@example.com
 #  arch: https://example.com/WG
   github: "lx3-g/praud-kv-server"
-  latest: "https://lx3-g.github.io/praud-kv-server/draft-todo-tretyakov-protocol.html"
+  latest: "https://lx3-g.github.io/praud-kv-server/draft-tretyakov-protected-audience-key-value-server-api.html"
 
 author:
  -
