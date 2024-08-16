@@ -20,10 +20,10 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at https://lx3-
-   g.github.io/praud-kv-server/draft-todo-tretyakov-protocol.html.
-   Status information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-tretyakov-protected-audience-
-   key-value-server-api/.
+   g.github.io/praud-kv-server/draft-tretyakov-protected-audience-key-
+   value-server-api.html.  Status information for this document may be
+   found at https://datatracker.ietf.org/doc/draft-tretyakov-protected-
+   audience-key-value-server-api/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/lx3-g/praud-kv-server.
