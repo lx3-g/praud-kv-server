@@ -35,7 +35,6 @@ author:
 normative:
   CBOR: RFC8949
   CDDL: RFC8610
-  OHTTP: RFC9458
 
 informative:
 
@@ -57,7 +56,7 @@ TODO
 
 ## Core data
 
-Core request and response data structures are all in [CBOR](https://www.rfc-editor.org/rfc/rfc8949.html).
+Core request and response data structures are all in {{CBOR}}.
 
 The schema below is defined following the {{CDDL}}
 
@@ -124,7 +123,7 @@ TODO: see if the above can be improved
 
 Example trusted bidding signals request from Chrome:
 The cbor representation consists of the following item, represented using the
-extended diagnostic notation from [CDDL](https://datatracker.ietf.org/doc/html/rfc8610) appendix G:
+extended diagnostic notation from {{CDDL}} appendix G:
 
 ~~~ cbor-diag
 {
