@@ -59,7 +59,7 @@ TODO
 
 Core request and response data structures are all in [CBOR](https://www.rfc-editor.org/rfc/rfc8949.html).
 
-The schema below is defined following the [CDDL](https://datatracker.ietf.org/doc/html/rfc8610)
+The schema below is defined following the {{CDDL}}
 
 ### Request
 
@@ -123,8 +123,10 @@ requestArgument = {
 TODO: see if the above can be improved
 
 Example trusted bidding signals request from Chrome:
+The cbor representation consists of the following item, represented using the
+extended diagnostic notation from [CDDL](https://datatracker.ietf.org/doc/html/rfc8610) appendix G:
 
-~~~ json
+~~~ cbor-diag
 {
   "acceptCompression": [
     "none",
@@ -242,7 +244,7 @@ keyValue = {
 
 Example:
 
-~~~ json
+~~~ cbor-diag
 [
   {
     "id": 0,
