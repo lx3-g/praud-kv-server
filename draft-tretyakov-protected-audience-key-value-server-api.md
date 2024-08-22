@@ -1,7 +1,7 @@
 ---
 title: "Protected Audience Key Value Server APIs"
 abbrev: "KV Servers APIs"
-category: info
+category: std
 
 docname: draft-tretyakov-protected-audience-key-value-server-api-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
@@ -283,6 +283,7 @@ Note that they must be serialized to string when stored as the value.
 
 #### InterestGroupResponse
 
+The schema below is defined following the spec by https://json-schema.org/.
 For values for keys from the `interestGroupNames` namespace, they must conform to the following schema, prior to being serialized to string:
 
 ~~~ json
