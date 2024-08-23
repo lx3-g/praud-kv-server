@@ -4,8 +4,8 @@
 
 Network Working Group                                              P. Hu
 Internet-Draft                                            B. R. Hamilton
-Intended status: Informational                                    Google
-Expires: 23 February 2025                                 22 August 2024
+Intended status: Standards Track                                  Google
+Expires: 24 February 2025                                 23 August 2024
 
 
                 Protected Audience Key Value Server APIs
@@ -43,7 +43,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 February 2025.
+   This Internet-Draft will expire on 24 February 2025.
 
 Copyright Notice
 
@@ -357,8 +357,10 @@ Table of Contents
 
 2.1.4.1.  InterestGroupResponse
 
-   For values for keys from the interestGroupNames namespace, they must
-   conform to the following schema, prior to being serialized to string:
+   The schema below is defined following the spec by https://json-
+   schema.org/. For values for keys from the interestGroupNames
+   namespace, they must conform to the following schema, prior to being
+   serialized to string:
 
    {
      "title": "tkv.response.v2.InterestGroupResponse",
