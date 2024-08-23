@@ -87,8 +87,7 @@ Table of Contents
 
 2.1.  Core data
 
-   Core request and response data structures are all in CBOR
-   (https://www.rfc-editor.org/rfc/rfc8949.html).
+   Core request and response data structures are all in [CBOR].
 
    The schema below is defined following the [CDDL]
 
@@ -197,8 +196,7 @@ Table of Contents
 
    Example trusted bidding signals request from Chrome: The cbor
    representation consists of the following item, represented using the
-   extended diagnostic notation from CDDL
-   (https://datatracker.ietf.org/doc/html/rfc8610) appendix G:
+   extended diagnostic notation from [CDDL] appendix G:
 
    {
      "acceptCompression": [
@@ -412,10 +410,6 @@ Table of Contents
               Express Concise Binary Object Representation (CBOR) and
               JSON Data Structures", RFC 8610, DOI 10.17487/RFC8610,
               June 2019, <https://www.rfc-editor.org/rfc/rfc8610>.
-
-   [OHTTP]    Thomson, M. and C. A. Wood, "Oblivious HTTP", RFC 9458,
-              DOI 10.17487/RFC9458, January 2024,
-              <https://www.rfc-editor.org/rfc/rfc9458>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
